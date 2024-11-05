@@ -14,11 +14,11 @@ console.log(nom)
 
 //converting number into string
 
-/*let line = 56
+let line = 56
 let string = String(line)
 
 //console.log(typeof line);
-console.log(typeof string);*/
+console.log(typeof string);
 
 //conversion in boolean
 /*
