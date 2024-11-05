@@ -1,10 +1,11 @@
-let person = ['farhan', 'good', 'honest' , 'age'];
-person[3] = '22';
+/*let person = ['farhan', 'good', 'honest' , 'age']
+person[3] = '22'
 
-console.log(person);
+console.log(person);*/
+
 function greet (lastNme , age , car){
-    console.log('hello' + ' ' + lastNme + ' ' + age + ' ' + car);
+    console.log('hello' + ' ' + lastNme + ' ' + age )
 }
 
-
-greet('farhan' , '25' , 'bmw');
+ 
+greet('farhan' , '25' , 'bmw')
