@@ -12,5 +12,5 @@ function intro (nme, age){
 
 intro ('farhan' , '22') 
 
-console.log(accountId)
+// console.log(accountId)
 console.table([accountId, favCar])
