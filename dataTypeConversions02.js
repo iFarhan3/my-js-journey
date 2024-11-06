@@ -5,20 +5,20 @@
 //let score = null
 //let score = undefined
 //let score = 'fars'
-let nom = Number(score)
+/*let nom = Number(score)
 
 console.log(typeof nom);
 //console.log(typeof score);
-console.log(nom)
+console.log(nom)*/
 
 
 //converting number into string
 
 let line = 56
-let string = String(line)
+let ash = String(line)
 
 //console.log(typeof line);
-console.log(typeof string);
+console.log(typeof ash);
 
 //conversion in boolean
 /*
